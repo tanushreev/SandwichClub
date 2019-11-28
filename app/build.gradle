@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.3"
     defaultConfig {
-        applicationId "com.udacity.sandwichclub"
+        applicationId "com.tanushree.sandwichclub"
         minSdkVersion 16
         targetSdkVersion 26
         versionCode 1

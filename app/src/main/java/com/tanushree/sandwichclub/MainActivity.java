@@ -1,4 +1,4 @@
-package com.udacity.sandwichclub;
+package com.tanushree.sandwichclub;
 
 import android.content.Intent;
 import android.os.Bundle;
